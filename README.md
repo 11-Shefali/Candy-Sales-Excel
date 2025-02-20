@@ -1,7 +1,3 @@
-# Candy-Sales-Excel
-Here's an enhanced version of your README with detailed explanations for each section, including a **problem statement**:  
-
----
 
 # 🍬 The Sweet Company - Sales Dashboard  
 
